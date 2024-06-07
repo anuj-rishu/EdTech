@@ -1,2 +1,0 @@
-# EdTech
-Major WebDev Project
